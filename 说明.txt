@@ -1,0 +1,10 @@
+推送token： 微信登录https://www.pushplus.plus/  获取
+
+
+以下运行组件软件启动会自动检测下载。如果下载失败可以手动下载并解压到运行目录
+
+chrome下载地址：https://shuax.lanzoux.com/iJbGmpidhsb
+
+webview2运行时下载：https://wwi.lanzoup.com/imxoT0tyh2cf
+
+未安装webview2运行时的话软件会启动报错，可以直接下载了手动安装
