@@ -1,5 +1,6 @@
 # 最新中继服务器地址
-直接在pz.ini里面的zj值填写 http://yixxqg2.000webhostapp.com/
+直接在pz.ini里面的zj值填写 http://yixxqg2.000webhostapp.com
+
 
 # 写在前面的话
 本软件主要是依靠第三方浏览器脚本进行视频和文章的自动浏览，不打算做题，只是为了节省浏览视频文章的时间
