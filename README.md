@@ -1,5 +1,5 @@
 # 最新中继服务器地址
-直接在pz.ini里面的zj值填写 http://yixxqg2.000webhostapp.com
+直接在pz.ini里面的zj值填写 http://f0931175.xsph.ru
 
 
 # 写在前面的话
