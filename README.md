@@ -1,5 +1,7 @@
 # 最新中继服务器地址
-直接在pz.ini里面的zj值填写 http://f0931175.xsph.ru
+直接在pz.ini里面的zj值填写 http://f0931175.xsph.ru  http://yixxqg.dothome.co.kr
+
+很烦。免费php空间总是有限制。正在测试使用第三方服务存数据，不用中继服务器了
 
 
 # 写在前面的话
