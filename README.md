@@ -1,7 +1,8 @@
 # 最新中继服务器地址
-直接在pz.ini里面的zj值填写 http://f0931175.xsph.ru  http://yixxqg.dothome.co.kr  这俩随便填一个就行
+直接在pz.ini里面的zj值填写 ~~http://yixxqg.dothome.co.kr~~ https://yixxqg.serv00.net 这俩随便填一个就行
 
-很烦。免费php空间总是有限制。正在测试使用第三方服务存数据，不用中继服务器了
+# 自建中继服务器
+源码在上面。自己部署在能使用php的空间，文件名称不要改，自己把域名填进pz.ini里面的zj值就行，确认文件地址为  【中继服务器地址】/jscq.php，例如https://yixxqg.serv00.net/jscq.php
 
 
 # 写在前面的话
