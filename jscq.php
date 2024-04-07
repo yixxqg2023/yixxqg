@@ -69,7 +69,7 @@ switch ($lx) {
 		}
 
         break;
-    case 'allfh3':
+    case 'all':
         // 返回所有记录
         // 读取文件 data
 		$file_path = 'data';
